@@ -1,0 +1,337 @@
+.tudo{
+	width: 100%;
+	height: 150vh;
+}
+.geralcima{
+	width: 100%;
+	height: 30%;
+}
+.geralbaixo{
+	display: flex;
+	width: 100%;
+	height: 70%;
+}
+.cima_1{
+	display: flex;
+	width: 100%;
+	height: 25%;
+}
+.cima_2{
+	width: 100%;
+	height: 75%;
+	background-color: steelblue;
+}
+.c1-1metade{
+	width: 50%;
+	height: 100%;
+	background-color: steelblue;
+}
+.c1-2metade{
+	width: 50%;
+	height: 100%;
+	background-color: steelblue;
+}
+.logo{
+	width: 50%;
+	height: 50%;
+	background-color: steelblue;
+	margin-left: 7vh;
+	margin-top: 2.5vh;
+}
+.logo_imagem{
+	width: 50%;
+	height: 7vh;
+}
+.icones{
+	display: flex;
+	width: 50%;
+	height: 50%;
+	background-color: steelblue;
+	margin-left: 43.5vh;
+	margin-top: 2.5vh;
+}
+.ico_pos1{
+	width: 15%;
+	height: 100%;
+	background-color: steelblue;
+	margin-left: 20vh;
+}
+.ico_pos2{
+	width: 15%;
+	height: 100%;
+	background-color: steelblue;
+	margin-left: 5vh;
+}
+.ico_pos3{
+	width: 15%;
+	height: 100%;
+	background-color: steelblue;
+	margin-left: 5vh;
+}
+.lupa{
+	width: 100%;
+	height: 100%;
+}
+.casa{
+	width: 100%;
+	height: 100%;
+}
+.pontos{
+	width: 100%;
+	height: 100%;
+}
+.banner{
+	width: 95%;
+	height: 75%;
+	background-color: steelblue;
+	margin-left: 5vh;
+}
+.grupo{
+	width: 50%;
+	height: auto;
+	margin-top: 1.5vh;
+	margin-left: 41.5vh;
+}
+.baixo_1{
+	display: flex;
+	flex-direction: column;
+	width: 70%;
+	height: 100%;
+	background-color: steelblue;
+}
+.baixo_2{
+	width: 30%;
+	height: 100%;
+	background-color: turquoise;
+}
+.b1-1metade{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 50%;
+}
+.b1-2metade{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 50%;
+}
+.repor_pos1{
+	width: 50%;
+	height: 100%;
+	background-color: steelblue;
+}
+.repor_pos2{
+	width: 50%;
+	height: 100%;
+	background-color: steelblue;
+}
+.repor_pos3{
+	width: 50%;
+	height: 100%;
+	background-color: steelblue;
+}
+.repor_pos4{
+	width: 50%;
+	height: 100%;
+	background-color: steelblue;
+}
+.reportagem1{
+	width: 80%;
+	height: 70%;
+	background-color: steelblue;
+	margin-left: 7vh;
+}
+.reportagem1-texto{
+	width: 100%;
+	height: 30%;
+	background-color: steelblue;
+}
+.reportagem2{
+	width: 80%;
+	height: 70%;
+	background-color: steelblue;
+	margin-left: 7vh;
+}
+.reportagem2-texto{
+	width: 100%;
+	height: 30%;
+	background-color: steelblue;
+}
+.reportagem3{
+	width: 80%;
+	height: 70%;
+	background-color: steelblue;
+	margin-left: 7vh;
+}
+.reportagem3-texto{
+	width: 100%;
+	height: 30%;
+	background-color: steelblue;
+}
+.reportagem4{
+	width: 80%;
+	height: 70%;
+	background-color: steelblue;
+	margin-left: 7vh;
+}
+.reportagem4-texto{
+	width: 100%;
+	height: 30%;
+	background-color: steelblue;
+}
+.bola{
+	width: 100%;
+	height: 100%;
+}
+.alemanha{
+	width: 100%;
+	height: 100%;
+}
+.marrocos{
+	width: 100%;
+	height: 100%;
+}
+.croacia{
+	width: 100%;
+	height: 100%;
+}
+@media (max-width: 320px) {
+	.tudo{
+		width: 100%;
+		height: 100vh;
+	}
+	.logo{
+	width: 50%;
+	height: 50%;
+	background-color: steelblue;
+	margin-left: 3vh;
+	margin-top: 1.8vh;
+	}
+	.logo_imagem{
+	width: 70%;
+	height: 4vh;
+	}
+	.icones{
+		width: 50%;
+		height: 50%;
+		background-color: steelblue;
+		margin-left: 10vh;
+		margin-top: 1.8vh;
+	}
+	.ico_pos1{
+		width: 0%;
+		height: 0%;
+		background-color: steelblue;
+		margin-left: 0.5vh;
+	}	
+	.ico_pos2{
+		width: 0%;
+		height: 0%;
+		background-color: steelblue;
+		margin-left: 0.5vh;
+	}	
+	.ico_pos3{
+		width: 30%;
+		height: 100%;
+		background-color: steelblue;
+		margin-left: 8.5vh;
+	}	
+	.banner{
+		width: 85%;
+		height: 80%;
+		background-color: steelblue;
+		margin-left: 3.5vh;
+	}
+	.grupo{
+		width: 100%;
+		height: auto;
+		margin-top: 4vh;
+		margin-left: 0%;
+	}
+	.baixo_1{
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		height: 100%;
+		background-color: slateblue;
+	}
+	.baixo_2{
+		width: 0%;
+		height: 0%;
+	}
+	.repor_pos1{
+		display: flex;
+		width: 100%;
+		height: 50%;
+		background-color: steelblue;
+	}
+	.repor_pos2{
+		display: flex;
+		width: 100%;
+		height: 50%;
+		background-color: steelblue;
+	}
+	.reportagem1{
+	width: 40%;
+	height: 100%;
+	background-color: blue;
+	margin-left: 0vh;
+}
+.reportagem1-texto{
+	width: 60%;
+	height: 100%;
+	background-color: steelblue;
+}
+.reportagem2{
+	width: 40%;
+	height: 100%;
+	background-color: steelblue;
+	margin-left: 0vh;
+}
+.reportagem2-texto{
+	width: 60%;
+	height: 100%;
+	background-color: steelblue;
+}
+
+	.b1-1metade{
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+		height: 100%;
+		background-color: steelblue;
+	}
+	.b1-2metade{
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+		height: 100%;
+		background-color: steelblue;
+	}
+	.reportagem3{
+		width: 40%;
+		height: 100%;
+		ackground-color: blue;
+		margin-left: 0vh;
+	}
+		.reportagem3-texto{
+			width: 60%;
+			height: 100%;
+			background-color: steelblue;
+		}
+		.reportagem4{
+			width: 40%;
+			height: 100%;
+			background-color: steelblue;
+			margin-left: 0vh;
+		}
+		.reportagem4-texto{
+			width: 60%;
+			height: 100%;
+			background-color: steelblue;
+		}		
+
+
+
+}
